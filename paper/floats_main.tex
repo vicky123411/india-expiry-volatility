@@ -1,0 +1,23 @@
+\begin{table}[t]
+\centering
+\caption{\textbf{Whole session: expiry-day effects on log Garman--Klass variance.} Equation~\eqref{eq:main}. Pooled: index$\times$weekday and index$\times$week effects; per index: weekday and week effects. Standard errors clustered by calendar week in parentheses. *, **, *** = significant at 10\%, 5\%, 1\%.}
+\label{tab:main}
+\small
+\fittable{main_lgk}
+\end{table}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\textwidth]{fig3_main.pdf}
+\caption{\textbf{Expiry moves the close, not the day.} Estimated change in variance on own weekly (blue) and monthly (orange) expiry days with 95\% intervals. A: whole session, log Garman--Klass variance, daily data 2014--2026. B: realized variance of one-minute returns in 15:00--15:30, 2021--2026. Note the different scales.}
+\label{fig:main}
+\end{figure}
+
+\begin{table}[t]
+\centering
+\caption{\textbf{One-minute data: whole session vs.\ settlement window.} Log realized variance of the whole session (five-minute returns) and of 15:00--15:30 (one-minute returns). Nifty 50 and Bank Nifty May 2021 -- July 2026, Sensex September 2022 -- July 2026. Fixed effects and standard errors as in Table~\ref{tab:main}.}
+\label{tab:minute}
+\scriptsize
+\setlength{\tabcolsep}{4pt}
+\fittable{minute_main}
+\end{table}

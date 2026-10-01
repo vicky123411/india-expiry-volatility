@@ -1,0 +1,30 @@
+\begin{table}[h]
+\centering
+\caption{\textbf{Alternative whole-session outcomes} (pooled, equation~\eqref{eq:main}). The overnight gap is the squared return from the previous close to the open of the expiry day.}
+\label{tab:alt}
+\scriptsize
+\setlength{\tabcolsep}{4pt}
+\fittable{alt_outcomes}
+\end{table}
+
+\begin{table}[h]
+\centering
+\caption{\textbf{The closing auction: an early look.} Log Parkinson variance of the last hourly bar (15:15--15:30), October 2023 -- September 2026. ``After'' = from 3 August 2026 (two months). Pooled: index$\times$weekday and index$\times$week effects; per index: weekday and week effects. Low power: few expiry days after the change.}
+\label{tab:cas}
+\scriptsize
+\fittable{closing_auction}
+\end{table}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=\textwidth]{figA1_moving_day.pdf}
+\caption{\textbf{Whole-session volatility around the eight major calendar changes} (daily data, log Garman--Klass variance relative to the rest of the week). Unlike the closing window (Figure~\ref{fig:moving}), the weekday profile does not consistently follow the expiry day.}
+\label{fig:movingday}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.7\textwidth]{figA2_placebo_last30.pdf}
+\caption{\textbf{Placebo calendars.} Estimated weekly-expiry effect on 15:00--15:30 variance under 1,000 placebo calendars that keep the dates of every rule change but draw the weekdays at random; the vertical line is the estimate with the real calendar.}
+\label{fig:placebo}
+\end{figure}

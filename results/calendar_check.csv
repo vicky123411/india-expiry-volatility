@@ -1,0 +1,4 @@
+product,source,from,to,expiry_days_rule,expiry_days_files,mismatches,rule_days_not_in_files
+NIFTY,NSE bhavcopy,2014-01-01,2026-06-29,444,444,0,"2020-11-05, 2020-11-12"
+BANKNIFTY,NSE bhavcopy,2014-01-01,2026-06-29,488,488,0,"2020-11-05, 2020-11-12"
+SENSEX,1-minute option files (expiry dates),2023-08-11,2026-07-30,156,148,0,"2024-10-31, 2025-10-30, 2026-05-27, 2026-06-04, 2026-06-11, 2026-06-18, 2026-06-25, 2026-07-02"

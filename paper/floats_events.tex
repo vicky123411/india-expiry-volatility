@@ -1,0 +1,22 @@
+\begin{figure}[tp]
+\centering
+\includegraphics[width=\textwidth]{fig2_moving_close.pdf}
+\caption{\textbf{The volatile closing half hour follows the expiry day.} For each calendar change with one-minute data: realized variance in 15:00--15:30 on each weekday relative to the rest of its week, in the 26 weeks before (grey) and after (blue) the change (windows cut at other changes of the same product). The new expiry weekday is in blue. In the Nifty Thursday $\rightarrow$ Tuesday panel, Thursday stays volatile because Sensex moved its expiry to Thursday on the same day.}
+\label{fig:moving}
+\end{figure}
+
+\begin{table}[t]
+\centering
+\caption{\textbf{Natural experiments, change by change.} Difference-in-differences within a $\pm$26-week window: change in log variance of the weekday that gained (lost) the index's expiry, relative to the index's other weekdays, after vs.\ before, with weekday and week effects. Whole session: log Garman--Klass variance (last row: five-minute realized variance, 2021--2026). Last 30 minutes: one-minute realized variance 15:00--15:30 (available from 2021; Sensex from 2022). Stacked rows pool the changes with event-specific effects. $^\dagger$Midcap Select (small market). Standard errors clustered by week.}
+\label{tab:events}
+\scriptsize
+\setlength{\tabcolsep}{3.5pt}
+\fittable{events}
+\end{table}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.95\textwidth]{fig5_event_time.pdf}
+\caption{\textbf{Event time.} Stacked over the six changes with one-minute data: difference between the new and the old expiry weekday in eight-week bins around the change (the bin just before is the reference), with 95\% intervals. A: whole session (five-minute realized variance). B: 15:00--15:30.}
+\label{fig:eventtime}
+\end{figure}

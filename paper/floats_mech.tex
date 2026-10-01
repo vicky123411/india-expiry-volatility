@@ -1,0 +1,14 @@
+\begin{figure}[t]
+\centering
+\includegraphics[width=\textwidth]{fig4_intraday.pdf}
+\caption{\textbf{When in the day expiry matters.} Equation~\eqref{eq:main} estimated separately for the log realized variance of each 15-minute slot (one-minute data, 2021--2026, three indices pooled), with 95\% intervals. Shaded: the 15:00--15:30 window whose average price set the settlement value.}
+\label{fig:intraday}
+\end{figure}
+
+\begin{table}[t]
+\centering
+\caption{\textbf{Pinning.} Top: share of official closes within 10\% of a strike step of a multiple of the step (about 0.20 with no pinning), on own expiry days and other days, and linear-probability coefficients with weekday and week effects. Bottom (Nifty and Bank Nifty, option data 2014 -- June 2026): change during the day in the distance (\% of index level) to the strike with the largest open interest at the previous close, in the nearest-expiry series; negative = moved toward the strike. The difference controls for the distance at the open, with weekday and year effects.}
+\label{tab:pinning}
+\scriptsize
+\fittable{pinning}
+\end{table}
