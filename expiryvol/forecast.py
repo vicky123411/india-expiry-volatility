@@ -1,6 +1,6 @@
 """Does knowing the expiry calendar improve next-day volatility forecasts? (Link to paper 1.)
 
-Same set-up as paper 1 (vicky123411/nifty50-volatility-forecasting):
+Same set-up as paper 1 (vicky123411/nifty-volatility-ml-vs-econometrics):
 * target: the next trading day's close-to-close variance = overnight gap squared + Garman-Klass;
 * HAR model (Corsi, 2009), log-linear, fitted with the Gamma loss that matches QLIKE;
 * walk-forward test on an expanding window, re-fitted every 22 trading days;

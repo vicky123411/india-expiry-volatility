@@ -119,7 +119,7 @@ Tested with Python 3.11.
 - This is research and education only. It is not investment advice.
 
 ## Related
-- **Paper 1:** [Can Machine Learning Forecast Market Volatility Better Than Classic Models? Evidence from India's Nifty 50](https://github.com/vicky123411/nifty50-volatility-forecasting).
+- **Paper 1:** [Can Machine Learning Forecast Market Volatility Better Than Classic Models? Evidence from India's Nifty 50](https://github.com/vicky123411/nifty-volatility-ml-vs-econometrics).
 
 ## License
 MIT. See [LICENSE](LICENSE).
