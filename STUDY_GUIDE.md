@@ -97,7 +97,7 @@ This guide explains the whole project in easy language, step by step, so you can
 | Whole day, weekday *gaining* an expiry (event windows) | about +15% (uncertain) | Small; can't be ruled out |
 | **Last 30 min, weekly expiry** | **+53%** | Big effect |
 | **Last 30 min, monthly expiry** | **+67%** | Big effect |
-| Last 30 min, Sensex weekly | +147% | Biggest |
+| Last 30 min, Sensex weekly | +146% | Biggest |
 | Last 30 min, Bank Nifty weekly | +34% | Clear |
 | When a weekday **gains** an expiry | its last 30 min **+65%** (higher in all 5 cases) | The wildness moves in |
 | When a weekday **loses** an expiry | its last 30 min **−31%** (lower in 4 of 5 cases) | ... and mostly moves out |

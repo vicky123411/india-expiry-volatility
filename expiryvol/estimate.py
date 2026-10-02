@@ -280,7 +280,7 @@ def event_did(panel: pd.DataFrame, event: ex.Event, y: str = "lgk", weeks: int =
     return t.rename_axis("term").reset_index()
 
 
-def stacked_events(panel: pd.DataFrame, events, y: str = "lgk", weeks: int = 26) -> pd.DataFrame:
+def stacked_events(panel: pd.DataFrame, events, y: str = "lgk", weeks: int = 26, controls=()) -> pd.DataFrame:
     """Average effect across events of a weekday gaining / losing an expiry (stacked design:
     each event keeps its own weekday and week effects; errors clustered by calendar week)."""
     parts = []
@@ -293,8 +293,8 @@ def stacked_events(panel: pd.DataFrame, events, y: str = "lgk", weeks: int = 26)
         s["ev"] = k
         parts.append(s)
     st = pd.concat(parts, ignore_index=True)
-    r = fe_ols(st, y, ["gain_post", "lose_post"], (("ev", "wd"), ("ev", "week")))
-    t = r.table()
+    r = fe_ols(st, y, ["gain_post", "lose_post"] + list(controls), (("ev", "wd"), ("ev", "week")), drop_absorbed=True)
+    t = r.table().loc[["gain_post", "lose_post"]]
     t["n"] = r.nobs
     t["events"] = len(events)
     return t.rename_axis("term").reset_index()

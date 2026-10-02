@@ -1,6 +1,7 @@
 """The fixed-effects estimator against textbook OLS with dummy variables (synthetic data)."""
 import numpy as np
 import pandas as pd
+import pytest
 import statsmodels.formula.api as smf
 
 from expiryvol import estimate as es
@@ -20,6 +21,9 @@ def synthetic(seed=1, n_weeks=120, effect=0.3):
     return pd.DataFrame(rows)
 
 
+# the reference model includes redundant dummies on purpose; statsmodels warns about that
+@pytest.mark.filterwarnings("ignore:The design matrix is rank-deficient")
+@pytest.mark.filterwarnings("ignore:invalid value encountered in sqrt:RuntimeWarning")
 def test_matches_dummy_variable_ols():
     d = synthetic()
     r = es.fe_ols(d, "y", ["own", "other"], (("index", "wd"), ("index", "week")))

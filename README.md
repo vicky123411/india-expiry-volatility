@@ -76,11 +76,13 @@ If expiry causes volatility, the volatile day should **move when the expiry day 
 │   ├── mechanisms.py     # intraday timing, pinning, reversals, option activity, closing auction
 │   ├── forecast.py       # HAR walk-forward test (link to paper 1)
 │   └── plots.py          # figures
-├── scripts/run_all.py    # reproduces every table, figure and number (~10 minutes)
+├── scripts/              # run_all.py reproduces every table, figure and number (~10 minutes); descriptives.py, extra_checks.py
 ├── results/              # every estimate as CSV, plus key_numbers.json
 ├── figures/              # figures (PNG and PDF)
 ├── paper/                # LaTeX source (Overleaf-ready), tables, main.pdf
+├── manuscript/           # journal version (Word and PDF in manuscript/out/) and SUBMISSION_GUIDE.md
 ├── tests/                # automated checks (calendar vs. exchange files, estimator vs. textbook OLS, no look-ahead)
+│   └── data/             # small expiry-date lists the calendar checks compare against
 ├── ANALYSIS_PLAN.md      # what was planned before running the checks
 └── STUDY_GUIDE.md        # the whole study explained in easy language, with likely questions
 ```
@@ -93,8 +95,11 @@ pip install -r requirements.txt
 
 pytest -q                          # automated checks (a few seconds)
 python scripts/run_all.py          # all results, figures and tables (first run downloads ~200 MB)
+python scripts/descriptives.py     # descriptive statistics table
+python scripts/extra_checks.py     # additional robustness checks
 jupyter lab notebooks/             # the three notebooks
-cd paper && latexmk -pdf main.tex  # the paper
+python manuscript/build.py         # the journal manuscript (needs pandoc and xelatex)
+cd paper && latexmk -pdf main.tex  # the paper (LaTeX draft)
 ```
 Tested with Python 3.11.
 

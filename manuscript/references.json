@@ -1,0 +1,1265 @@
+[
+ {
+  "DOI": "10.1007/s11147-025-09221-8",
+  "author": [
+   {
+    "family": "Chhimwal",
+    "given": "Bhaskar"
+   },
+   {
+    "family": "Pandey",
+    "given": "Vikas"
+   },
+   {
+    "family": "Pandey",
+    "given": "Piyush"
+   }
+  ],
+  "container-title": "Review of Derivatives Research",
+  "id": "chhimwal2025",
+  "issue": "3",
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "title": "Effect of multiple index derivative expiry on volatility, volume, and connectedness: A tale of two stock indices in India",
+  "title-short": "Effect of multiple index derivative expiry on volatility, volume, and connectedness",
+  "type": "article-journal",
+  "volume": "28",
+  "number": "14"
+ },
+ {
+  "DOI": "10.2469/faj.v43.n2.16",
+  "author": [
+   {
+    "family": "Stoll",
+    "given": "Hans R."
+   },
+   {
+    "family": "Whaley",
+    "given": "Robert E."
+   }
+  ],
+  "container-title": "Financial Analysts Journal",
+  "id": "stoll1987",
+  "issue": "2",
+  "issued": {
+   "date-parts": [
+    [
+     1987
+    ]
+   ]
+  },
+  "page": "16-28",
+  "title": "Program trading and expiration-day effects",
+  "type": "article-journal",
+  "volume": "43"
+ },
+ {
+  "DOI": "10.2469/faj.v47.n1.58",
+  "author": [
+   {
+    "family": "Stoll",
+    "given": "Hans R."
+   },
+   {
+    "family": "Whaley",
+    "given": "Robert E."
+   }
+  ],
+  "container-title": "Financial Analysts Journal",
+  "id": "stoll1991",
+  "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     1991
+    ]
+   ]
+  },
+  "page": "58-72",
+  "title": "Expiration-day effects: What has changed?",
+  "title-short": "Expiration-day effects",
+  "type": "article-journal",
+  "volume": "47"
+ },
+ {
+  "DOI": "10.2469/faj.v45.n5.67",
+  "author": [
+   {
+    "family": "Chamberlain",
+    "given": "Trevor W."
+   },
+   {
+    "family": "Cheung",
+    "given": "C. Sherman"
+   },
+   {
+    "family": "Kwan",
+    "given": "Clarence C. Y."
+   }
+  ],
+  "container-title": "Financial Analysts Journal",
+  "id": "chamberlain1989",
+  "issue": "5",
+  "issued": {
+   "date-parts": [
+    [
+     1989
+    ]
+   ]
+  },
+  "page": "67-71",
+  "title": "Expiration-day effects of index futures and options: Some Canadian evidence",
+  "title-short": "Expiration-day effects of index futures and options",
+  "type": "article-journal",
+  "volume": "45"
+ },
+ {
+  "DOI": "10.1016/j.jfineco.2004.08.005",
+  "author": [
+   {
+    "family": "Ni",
+    "given": "Sophie Xiaoyan"
+   },
+   {
+    "family": "Pearson",
+    "given": "Neil D."
+   },
+   {
+    "family": "Poteshman",
+    "given": "Allen M."
+   }
+  ],
+  "container-title": "Journal of Financial Economics",
+  "id": "ni2005",
+  "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     2005
+    ]
+   ]
+  },
+  "page": "49-87",
+  "title": "Stock price clustering on option expiration dates",
+  "type": "article-journal",
+  "volume": "78"
+ },
+ {
+  "DOI": "10.1093/rfs/hhaa082",
+  "author": [
+   {
+    "family": "Ni",
+    "given": "Sophie X."
+   },
+   {
+    "family": "Pearson",
+    "given": "Neil D."
+   },
+   {
+    "family": "Poteshman",
+    "given": "Allen M."
+   },
+   {
+    "family": "White",
+    "given": "Joshua S."
+   }
+  ],
+  "container-title": "Review of Financial Studies",
+  "id": "ni2021",
+  "issue": "4",
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
+  "page": "1952-1986",
+  "title": "Does option trading have a pervasive impact on underlying stock prices?",
+  "type": "article-journal",
+  "volume": "34"
+ },
+ {
+  "DOI": "10.1088/1469-7688/3/6/301",
+  "author": [
+   {
+    "family": "Avellaneda",
+    "given": "Marco"
+   },
+   {
+    "family": "Lipkin",
+    "given": "Michael D."
+   }
+  ],
+  "container-title": "Quantitative Finance",
+  "id": "avellaneda2003",
+  "issue": "6",
+  "issued": {
+   "date-parts": [
+    [
+     2003
+    ]
+   ]
+  },
+  "page": "417-425",
+  "title": "A market-induced mechanism for stock pinning",
+  "type": "article-journal",
+  "volume": "3"
+ },
+ {
+  "DOI": "10.1016/j.jfineco.2012.06.010",
+  "author": [
+   {
+    "family": "Golez",
+    "given": "Benjamin"
+   },
+   {
+    "family": "Jackwerth",
+    "given": "Jens Carsten"
+   }
+  ],
+  "container-title": "Journal of Financial Economics",
+  "id": "golez2012",
+  "issue": "3",
+  "issued": {
+   "date-parts": [
+    [
+     2012
+    ]
+   ]
+  },
+  "page": "566-585",
+  "title": "Pinning in the S&P 500 futures",
+  "type": "article-journal",
+  "volume": "106"
+ },
+ {
+  "DOI": "10.1002/fut.20178",
+  "author": [
+   {
+    "literal": "Vipul"
+   }
+  ],
+  "container-title": "Journal of Futures Markets",
+  "id": "vipul2005",
+  "issue": "11",
+  "issued": {
+   "date-parts": [
+    [
+     2005
+    ]
+   ]
+  },
+  "page": "1045-1065",
+  "title": "Futures and options expiration-day effects: The Indian evidence",
+  "title-short": "Futures and options expiration-day effects",
+  "type": "article-journal",
+  "volume": "25"
+ },
+ {
+  "DOI": "10.1002/fut.21632",
+  "author": [
+   {
+    "family": "Agarwalla",
+    "given": "Sobhesh Kumar"
+   },
+   {
+    "family": "Pandey",
+    "given": "Ajay"
+   }
+  ],
+  "container-title": "Journal of Futures Markets",
+  "id": "agarwalla2013",
+  "issue": "11",
+  "issued": {
+   "date-parts": [
+    [
+     2013
+    ]
+   ]
+  },
+  "page": "1046-1070",
+  "title": "Expiration-day effects and the impact of short trading breaks on intraday volatility: Evidence from the Indian market",
+  "title-short": "Expiration-day effects and the impact of short trading breaks on intraday volatility",
+  "type": "article-journal",
+  "volume": "33"
+ },
+ {
+  "DOI": "10.1016/j.jfineco.2021.04.029",
+  "author": [
+   {
+    "family": "Baltussen",
+    "given": "Guido"
+   },
+   {
+    "family": "Da",
+    "given": "Zhi"
+   },
+   {
+    "family": "Lammers",
+    "given": "Sten"
+   },
+   {
+    "family": "Martens",
+    "given": "Martin"
+   }
+  ],
+  "container-title": "Journal of Financial Economics",
+  "id": "baltussen2021",
+  "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
+  "page": "377-403",
+  "title": "Hedging demand and market intraday momentum",
+  "type": "article-journal",
+  "volume": "142"
+ },
+ {
+  "DOI": "10.1016/j.jfineco.2018.05.009",
+  "author": [
+   {
+    "family": "Gao",
+    "given": "Lei"
+   },
+   {
+    "family": "Han",
+    "given": "Yufeng"
+   },
+   {
+    "family": "Li",
+    "given": "Sophia Zhengzi"
+   },
+   {
+    "family": "Zhou",
+    "given": "Guofu"
+   }
+  ],
+  "container-title": "Journal of Financial Economics",
+  "id": "gao2018",
+  "issue": "2",
+  "issued": {
+   "date-parts": [
+    [
+     2018
+    ]
+   ]
+  },
+  "page": "394-414",
+  "title": "Market intraday momentum",
+  "type": "article-journal",
+  "volume": "129"
+ },
+ {
+  "DOI": "10.2139/ssrn.3725454",
+  "author": [
+   {
+    "family": "Barbon",
+    "given": "Andrea"
+   },
+   {
+    "family": "Buraschi",
+    "given": "Andrea"
+   }
+  ],
+  "id": "barbon2020",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "title": "Gamma fragility",
+  "type": "article",
+  "genre": "Working paper",
+  "publisher": "SSRN"
+ },
+ {
+  "DOI": "10.2139/ssrn.4692190",
+  "author": [
+   {
+    "family": "Dim",
+    "given": "Chukwuma"
+   },
+   {
+    "family": "Eraker",
+    "given": "Bjorn"
+   },
+   {
+    "family": "Vilkov",
+    "given": "Grigory"
+   }
+  ],
+  "id": "dim2024",
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "title": "0DTEs: Trading, gamma risk and volatility propagation",
+  "title-short": "0DTEs",
+  "type": "article",
+  "genre": "Working paper",
+  "publisher": "SSRN"
+ },
+ {
+  "DOI": "10.2139/ssrn.4426358",
+  "author": [
+   {
+    "family": "Brogaard",
+    "given": "Jonathan"
+   },
+   {
+    "family": "Han",
+    "given": "Jaehee"
+   },
+   {
+    "family": "Won",
+    "given": "Peter Y."
+   }
+  ],
+  "id": "brogaard2023",
+  "issued": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "title": "Does 0DTE options trading increase volatility?",
+  "type": "article",
+  "genre": "Working paper",
+  "publisher": "SSRN"
+ },
+ {
+  "DOI": "10.1111/jofi.12486",
+  "author": [
+   {
+    "family": "Andersen",
+    "given": "Torben G."
+   },
+   {
+    "family": "Fusari",
+    "given": "Nicola"
+   },
+   {
+    "family": "Todorov",
+    "given": "Viktor"
+   }
+  ],
+  "container-title": "Journal of Finance",
+  "id": "andersen2017",
+  "issue": "3",
+  "issued": {
+   "date-parts": [
+    [
+     2017
+    ]
+   ]
+  },
+  "page": "1335-1386",
+  "title": "Short-term market risks implied by weekly options",
+  "type": "article-journal",
+  "volume": "72"
+ },
+ {
+  "DOI": "10.1086/296072",
+  "author": [
+   {
+    "family": "Garman",
+    "given": "Mark B."
+   },
+   {
+    "family": "Klass",
+    "given": "Michael J."
+   }
+  ],
+  "container-title": "Journal of Business",
+  "id": "garman1980",
+  "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     1980
+    ]
+   ]
+  },
+  "page": "67-78",
+  "title": "On the estimation of security price volatilities from historical data",
+  "type": "article-journal",
+  "volume": "53"
+ },
+ {
+  "DOI": "10.1086/296071",
+  "author": [
+   {
+    "family": "Parkinson",
+    "given": "Michael"
+   }
+  ],
+  "container-title": "Journal of Business",
+  "id": "parkinson1980",
+  "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     1980
+    ]
+   ]
+  },
+  "page": "61-65",
+  "title": "The extreme value method for estimating the variance of the rate of return",
+  "type": "article-journal",
+  "volume": "53"
+ },
+ {
+  "DOI": "10.1214/aoap/1177005835",
+  "author": [
+   {
+    "family": "Rogers",
+    "given": "L. C. G."
+   },
+   {
+    "family": "Satchell",
+    "given": "S. E."
+   }
+  ],
+  "container-title": "Annals of Applied Probability",
+  "id": "rogers1991",
+  "issue": "4",
+  "issued": {
+   "date-parts": [
+    [
+     1991
+    ]
+   ]
+  },
+  "page": "504-512",
+  "title": "Estimating variance from high, low and closing prices",
+  "type": "article-journal",
+  "volume": "1"
+ },
+ {
+  "DOI": "10.1093/jjfinec/nbp001",
+  "author": [
+   {
+    "family": "Corsi",
+    "given": "Fulvio"
+   }
+  ],
+  "container-title": "Journal of Financial Econometrics",
+  "id": "corsi2009",
+  "issue": "2",
+  "issued": {
+   "date-parts": [
+    [
+     2009
+    ]
+   ]
+  },
+  "page": "174-196",
+  "title": "A simple approximate long-memory model of realized volatility",
+  "type": "article-journal",
+  "volume": "7"
+ },
+ {
+  "DOI": "10.1016/j.jeconom.2010.03.034",
+  "author": [
+   {
+    "family": "Patton",
+    "given": "Andrew J."
+   }
+  ],
+  "container-title": "Journal of Econometrics",
+  "id": "patton2011",
+  "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     2011
+    ]
+   ]
+  },
+  "page": "246-256",
+  "title": "Volatility forecast comparison using imperfect volatility proxies",
+  "type": "article-journal",
+  "volume": "160"
+ },
+ {
+  "DOI": "10.1080/07350015.1995.10524599",
+  "author": [
+   {
+    "family": "Diebold",
+    "given": "Francis X."
+   },
+   {
+    "family": "Mariano",
+    "given": "Roberto S."
+   }
+  ],
+  "container-title": "Journal of Business & Economic Statistics",
+  "id": "diebold1995",
+  "issue": "3",
+  "issued": {
+   "date-parts": [
+    [
+     1995
+    ]
+   ]
+  },
+  "page": "253-263",
+  "title": "Comparing predictive accuracy",
+  "type": "article-journal",
+  "volume": "13"
+ },
+ {
+  "DOI": "10.1016/j.jeconom.2021.03.014",
+  "author": [
+   {
+    "family": "Goodman-Bacon",
+    "given": "Andrew"
+   }
+  ],
+  "container-title": "Journal of Econometrics",
+  "id": "goodmanbacon2021",
+  "issue": "2",
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
+  "page": "254-277",
+  "title": "Difference-in-differences with variation in treatment timing",
+  "type": "article-journal",
+  "volume": "225"
+ },
+ {
+  "DOI": "10.1257/aer.20181169",
+  "author": [
+   {
+    "family": "de Chaisemartin",
+    "given": "Clément"
+   },
+   {
+    "family": "D’Haultfœuille",
+    "given": "Xavier"
+   }
+  ],
+  "container-title": "American Economic Review",
+  "id": "dechaisemartin2020",
+  "issue": "9",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "page": "2964-2996",
+  "title": "Two-way fixed effects estimators with heterogeneous treatment effects",
+  "type": "article-journal",
+  "volume": "110"
+ },
+ {
+  "DOI": "10.1093/qje/qjz014",
+  "author": [
+   {
+    "family": "Cengiz",
+    "given": "Doruk"
+   },
+   {
+    "family": "Dube",
+    "given": "Arindrajit"
+   },
+   {
+    "family": "Lindner",
+    "given": "Attila"
+   },
+   {
+    "family": "Zipperer",
+    "given": "Ben"
+   }
+  ],
+  "container-title": "Quarterly Journal of Economics",
+  "id": "cengiz2019",
+  "issue": "3",
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "page": "1405-1454",
+  "title": "The effect of minimum wages on low-wage jobs",
+  "type": "article-journal",
+  "volume": "134"
+ },
+ {
+  "DOI": "10.1162/003465398557825",
+  "author": [
+   {
+    "family": "Driscoll",
+    "given": "John C."
+   },
+   {
+    "family": "Kraay",
+    "given": "Aart C."
+   }
+  ],
+  "container-title": "Review of Economics and Statistics",
+  "id": "driscoll1998",
+  "issue": "4",
+  "issued": {
+   "date-parts": [
+    [
+     1998
+    ]
+   ]
+  },
+  "page": "549-560",
+  "title": "Consistent covariance matrix estimation with spatially dependent panel data",
+  "type": "article-journal",
+  "volume": "80"
+ },
+ {
+  "DOI": "10.1198/jbes.2010.07136",
+  "author": [
+   {
+    "family": "Cameron",
+    "given": "A. Colin"
+   },
+   {
+    "family": "Gelbach",
+    "given": "Jonah B."
+   },
+   {
+    "family": "Miller",
+    "given": "Douglas L."
+   }
+  ],
+  "container-title": "Journal of Business & Economic Statistics",
+  "id": "cameron2011",
+  "issue": "2",
+  "issued": {
+   "date-parts": [
+    [
+     2011
+    ]
+   ]
+  },
+  "page": "238-249",
+  "title": "Robust inference with multiway clustering",
+  "type": "article-journal",
+  "volume": "29"
+ },
+ {
+  "DOI": "10.1093/qje/qjy029",
+  "author": [
+   {
+    "family": "Young",
+    "given": "Alwyn"
+   }
+  ],
+  "container-title": "Quarterly Journal of Economics",
+  "id": "young2019",
+  "issue": "2",
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "page": "557-598",
+  "title": "Channeling Fisher: Randomization tests and the statistical insignificance of seemingly significant experimental results",
+  "title-short": "Channeling Fisher",
+  "type": "article-journal",
+  "volume": "134"
+ },
+ {
+  "author": [
+   {
+    "family": "Holm",
+    "given": "Sture"
+   }
+  ],
+  "container-title": "Scandinavian Journal of Statistics",
+  "id": "holm1979",
+  "issue": "2",
+  "issued": {
+   "date-parts": [
+    [
+     1979
+    ]
+   ]
+  },
+  "page": "65-70",
+  "title": "A simple sequentially rejective multiple test procedure",
+  "type": "article-journal",
+  "volume": "6"
+ },
+ {
+  "DOI": "10.1177/1536867X1001000406",
+  "author": [
+   {
+    "family": "Guimarães",
+    "given": "Paulo"
+   },
+   {
+    "family": "Portugal",
+    "given": "Pedro"
+   }
+  ],
+  "container-title": "Stata Journal",
+  "id": "guimaraes2010",
+  "issue": "4",
+  "issued": {
+   "date-parts": [
+    [
+     2010
+    ]
+   ]
+  },
+  "page": "628-649",
+  "title": "A simple feasible procedure to fit models with high-dimensional fixed effects",
+  "type": "article-journal",
+  "volume": "10"
+ },
+ {
+  "author": [
+   {
+    "family": "Correia",
+    "given": "Sergio"
+   }
+  ],
+  "id": "correia2016",
+  "issued": {
+   "date-parts": [
+    [
+     2016
+    ]
+   ]
+  },
+  "title": "Linear models with high-dimensional fixed effects: An efficient and feasible estimator",
+  "title-short": "Linear models with high-dimensional fixed effects",
+  "type": "article",
+  "genre": "Working paper",
+  "URL": "http://scorreia.com/research/hdfe.pdf"
+ },
+ {
+  "DOI": "10.1111/j.1540-6261.1992.tb04666.x",
+  "author": [
+   {
+    "family": "Kumar",
+    "given": "Praveen"
+   },
+   {
+    "family": "Seppi",
+    "given": "Duane J."
+   }
+  ],
+  "container-title": "Journal of Finance",
+  "id": "kumar1992",
+  "issue": "4",
+  "issued": {
+   "date-parts": [
+    [
+     1992
+    ]
+   ]
+  },
+  "page": "1485-1502",
+  "title": "Futures manipulation with “cash settlement”",
+  "type": "article-journal",
+  "volume": "47"
+ },
+ {
+  "DOI": "10.1016/j.finmar.2004.04.002",
+  "author": [
+   {
+    "family": "Hillion",
+    "given": "Pierre"
+   },
+   {
+    "family": "Suominen",
+    "given": "Matti"
+   }
+  ],
+  "container-title": "Journal of Financial Markets",
+  "id": "hillion2004",
+  "issue": "4",
+  "issued": {
+   "date-parts": [
+    [
+     2004
+    ]
+   ]
+  },
+  "page": "351-375",
+  "title": "The manipulation of closing prices",
+  "type": "article-journal",
+  "volume": "7"
+ },
+ {
+  "DOI": "10.1016/j.jfi.2010.03.003",
+  "author": [
+   {
+    "family": "Comerton-Forde",
+    "given": "Carole"
+   },
+   {
+    "family": "Putniņš",
+    "given": "Tālis J."
+   }
+  ],
+  "container-title": "Journal of Financial Intermediation",
+  "id": "comertonforde2011",
+  "issue": "2",
+  "issued": {
+   "date-parts": [
+    [
+     2011
+    ]
+   ]
+  },
+  "page": "135-158",
+  "title": "Measuring closing price manipulation",
+  "type": "article-journal",
+  "volume": "20"
+ },
+ {
+  "author": [
+   {
+    "literal": "Securities and Exchange Board of India"
+   }
+  ],
+  "id": "sebi2024circular",
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     10,
+     1
+    ]
+   ]
+  },
+  "title": "Measures to strengthen equity index derivatives framework for increased investor protection and market stability",
+  "type": "report",
+  "URL": "https://www.sebi.gov.in/legal/circulars/oct-2024/measures-to-strengthen-equity-index-derivatives-framework-for-increased-investor-protection-and-market-stability_87208.html",
+  "genre": "Circular",
+  "number": "SEBI/HO/MRD/TPD-1/P/CIR/2024/132"
+ },
+ {
+  "author": [
+   {
+    "literal": "Securities and Exchange Board of India"
+   }
+  ],
+  "id": "sebi2025janestreet",
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     7,
+     3
+    ]
+   ]
+  },
+  "title": "Interim order in the matter of index manipulation by Jane Street group",
+  "type": "report",
+  "URL": "https://www.sebi.gov.in/sebi_data/attachdocs/jul-2025/1751584518593.pdf",
+  "genre": "Interim order",
+  "number": "WTM/AN/MRD/MRD-SEC-3/31516/2025-26"
+ },
+ {
+  "author": [
+   {
+    "literal": "Securities and Exchange Board of India"
+   }
+  ],
+  "id": "sebi2024study",
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     9,
+     23
+    ]
+   ]
+  },
+  "title": "Study – analysis of profits & losses in the equity derivatives segment (FY22–FY24)",
+  "type": "report",
+  "URL": "https://www.sebi.gov.in/reports-and-statistics/research/sep-2024/study-analysis-of-profits-and-losses-in-the-equity-derivatives-segment-fy22-fy24-_86905.html",
+  "genre": "Research study"
+ },
+ {
+  "author": [
+   {
+    "literal": "Securities and Exchange Board of India"
+   }
+  ],
+  "id": "sebi2025study",
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     7,
+     7
+    ]
+   ]
+  },
+  "title": "Comparative study of growth in equity derivatives segment vis-à-vis cash market after recent measures",
+  "type": "report",
+  "URL": "https://www.sebi.gov.in/reports-and-statistics/research/jul-2025/comparative-study-of-growth-in-equity-derivatives-segment-vis-vis-cash-market-after-recent-measures_95105.html",
+  "genre": "Research study"
+ },
+ {
+  "author": [
+   {
+    "literal": "Securities and Exchange Board of India"
+   }
+  ],
+  "id": "sebi2026study",
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     8,
+     20
+    ]
+   ]
+  },
+  "title": "Study – profitability of individual traders in the equity derivatives segment (FY25–FY26)",
+  "type": "report",
+  "URL": "https://www.sebi.gov.in/reports-and-statistics/research/aug-2026/study-profitability-of-individual-traders-in-the-equity-derivatives-segment-fy25-fy26-_103835.html",
+  "genre": "Research study"
+ },
+ {
+  "author": [
+   {
+    "literal": "National Stock Exchange of India"
+   }
+  ],
+  "id": "nse2026cassop",
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     3,
+     18
+    ]
+   ]
+  },
+  "title": "Operational guidelines and standard operating procedure (SOP) on introduction of closing auction session (CAS) in the equity cash segment",
+  "type": "report",
+  "URL": "https://nsearchives.nseindia.com/content/circulars/CMTR73362.pdf",
+  "genre": "Circular",
+  "number": "NSE/CMTR/73362"
+ },
+ {
+  "author": [
+   {
+    "literal": "National Stock Exchange of India"
+   }
+  ],
+  "id": "nse2026casgolive",
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     7,
+     30
+    ]
+   ]
+  },
+  "title": "Mock trading on Saturday, August 01, 2026 – Go live of trading modalities related to introduction of closing auction session (CAS) in equity cash segment",
+  "type": "report",
+  "URL": "https://nsearchives.nseindia.com/content/circulars/CMTR75479.pdf",
+  "genre": "Circular",
+  "number": "NSE/CMTR/75479"
+ },
+ {
+  "author": [
+   {
+    "literal": "National Stock Exchange of India"
+   }
+  ],
+  "id": "nse2025expiry",
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     6,
+     23
+    ]
+   ]
+  },
+  "title": "Revision in expiry day of index and stock derivatives contracts",
+  "type": "report",
+  "URL": "https://nsearchives.nseindia.com/content/circulars/FAOP68685.pdf",
+  "genre": "Circular",
+  "number": "NSE/FAOP/68685"
+ },
+ {
+  "author": [
+   {
+    "literal": "BSE Limited"
+   }
+  ],
+  "id": "bse2025expiry",
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     6,
+     17
+    ]
+   ]
+  },
+  "title": "Final settlement day (expiry day) for equity derivatives contracts",
+  "type": "report",
+  "URL": "https://www.bseindia.com/markets/MarketInfo/DispNewNoticesCirculars.aspx?page=20250617-11",
+  "genre": "Notice",
+  "number": "20250617-11"
+ },
+ {
+  "DOI": "10.1080/09603100410001673612",
+  "author": [
+   {
+    "family": "Alkebäck",
+    "given": "Per"
+   },
+   {
+    "family": "Hagelin",
+    "given": "Niclas"
+   }
+  ],
+  "container-title": "Applied Financial Economics",
+  "id": "alkeback2004",
+  "issue": "6",
+  "issued": {
+   "date-parts": [
+    [
+     2004
+    ]
+   ]
+  },
+  "page": "385-396",
+  "title": "Expiration day effects of index futures and options: Evidence from a market with a long settlement period",
+  "title-short": "Expiration day effects of index futures and options",
+  "type": "article-journal",
+  "volume": "14"
+ },
+ {
+  "DOI": "10.1002/fut.10054",
+  "author": [
+   {
+    "family": "Chow",
+    "given": "Ying-Foon"
+   },
+   {
+    "family": "Yung",
+    "given": "Haynes H. M."
+   },
+   {
+    "family": "Zhang",
+    "given": "Hua"
+   }
+  ],
+  "container-title": "Journal of Futures Markets",
+  "id": "chow2003",
+  "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     2003
+    ]
+   ]
+  },
+  "page": "67-86",
+  "title": "Expiration day effects: The case of Hong Kong",
+  "title-short": "Expiration day effects",
+  "type": "article-journal",
+  "volume": "23"
+ },
+ {
+  "DOI": "10.1111/irfi.12372",
+  "author": [
+   {
+    "family": "Jain",
+    "given": "Prachi"
+   },
+   {
+    "family": "Kotha",
+    "given": "Kiran Kumar"
+   }
+  ],
+  "container-title": "International Review of Finance",
+  "id": "jain2022",
+  "issue": "4",
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  },
+  "page": "770-776",
+  "title": "Does options improve the information absorption? Evidence from the introduction of weekly index options",
+  "type": "article-journal",
+  "volume": "22"
+ },
+ {
+  "id": "hf_minute",
+  "type": "dataset",
+  "author": [
+   {
+    "literal": "thetrademarkk"
+   }
+  ],
+  "title": "india-index-options-1m: One-minute data for Indian index options and indices",
+  "publisher": "Hugging Face",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "URL": "https://huggingface.co/datasets/thetrademarkk/india-index-options-1m"
+ },
+ {
+  "id": "hf_bhav",
+  "type": "dataset",
+  "author": [
+   {
+    "literal": "rissin"
+   }
+  ],
+  "title": "nse-options-intraday: NSE options historical data (intraday and daily)",
+  "publisher": "Hugging Face",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "URL": "https://huggingface.co/datasets/rissin/nse-options-intraday"
+ }
+]

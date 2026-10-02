@@ -311,7 +311,7 @@ def main(n_placebo: int):
         if e in minute_events:
             prof_last[e.name] = {"event": e, "before": es.weekday_profile(mdays, e.index, *before, "lrv_last"),
                                  "after": es.weekday_profile(mdays, e.index, *after, "lrv_last")}
-    plots.fig_moving(prof_last, str(FIG / "fig2_moving_close"), "Last-30-min variance vs\nrest of week (%)")
+    plots.fig_moving(prof_last, str(FIG / "fig2_moving_close"), "Settlement-window variance\nvs rest of week (%)")
     plots.fig_moving(prof_day, str(FIG / "figA1_moving_day"), "Daily-range variance vs\nrest of week (%)")
     pr = []
     for name, p in {**{("day", k): v for k, v in prof_day.items()}, **{("last30", k): v for k, v in prof_last.items()}}.items():
@@ -363,7 +363,7 @@ def main(n_placebo: int):
     ri.to_csv(RES / "randomization_inference.csv", index=False)
     K["ri"] = ri.to_dict("records")
     plots.fig_placebo(pl_last["b_own_weekly"], float(ri.iloc[2]["actual"]), str(FIG / "figA2_placebo_last30"),
-                      "Weekly-expiry effect on last-30-min variance")
+                      "Weekly-expiry effect on settlement-window variance")
 
     # robustness table (Table 6): whole session and last 30 min
     def rob_cells(df, spec, term):

@@ -56,7 +56,7 @@ def fig_main(main_daily: pd.DataFrame, main_last: pd.DataFrame, path_stem: str):
     fig, axes = plt.subplots(1, 2, figsize=(8.2, 3.6), sharey=True)
     order = ["pooled", "nifty50", "banknifty", "sensex"]
     for ax, tab, title in [(axes[0], main_daily, "A. Whole session (daily range, 2014–2026)"),
-                           (axes[1], main_last, "B. Last 30 minutes, 15:00–15:30 (2021–2026)")]:
+                           (axes[1], main_last, "B. Settlement window, 15:00–15:30 (2021–2026)")]:
         y0 = np.arange(len(order))[::-1]
         for j, (term, col, lab) in enumerate([("own_weekly", BLUE, "weekly expiry"),
                                               ("own_monthly", ORANGE, "monthly expiry")]):
@@ -144,7 +144,7 @@ def fig_intraday(slot_tab: pd.DataFrame, path_stem: str):
 
 def fig_event_time(et_last: pd.DataFrame, et_day: pd.DataFrame, bin_weeks: int, path_stem: str):
     fig, axes = plt.subplots(1, 2, figsize=(8.2, 3.1), sharex=True)
-    for ax, et, title in [(axes[0], et_day, "A. Whole session"), (axes[1], et_last, "B. Last 30 minutes")]:
+    for ax, et, title in [(axes[0], et_day, "A. Whole session"), (axes[1], et_last, "B. Settlement window, 15:00–15:30")]:
         x = et["bin"].to_numpy() * bin_weeks + bin_weeks / 2
         ax.vlines(x, pct(et["lo"]), pct(et["hi"]), color=BLUE, lw=1.8)
         ax.plot(x, pct(et["coef"]), "o", color=BLUE, ms=5, mec="white", mew=1)
@@ -168,8 +168,9 @@ def fig_periods(per: pd.DataFrame, path_stem: str):
         ax.vlines(x + dx, pct(t["lo"]), pct(t["hi"]), color=col, lw=1.8)
         ax.plot(x + dx, pct(t["coef"]), "o", color=col, ms=5, mec="white", mew=1, label=LABEL[idx])
     ax.axhline(0, color=INK2, lw=0.8)
-    ax.set_xticks(x, [p.replace(" to ", " to\n") for p in periods], fontsize=7.5)
-    ax.set_ylabel("Last-30-minute variance on\nown expiry days (% change)")
+    ax.set_xticks(x, [p.replace(" (minute data: 2021-23)", "").replace("2019-23", "2021–23").replace(" to ", " to\n")
+                      for p in periods], fontsize=7.5)
+    ax.set_ylabel("Settlement-window variance on\nown expiry days (% change)")
     ax.legend(loc="upper left", fontsize=7.5, ncol=3)
     ax.grid(axis="x", visible=False)
     fig.tight_layout()

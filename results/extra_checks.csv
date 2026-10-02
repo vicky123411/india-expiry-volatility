@@ -1,0 +1,26 @@
+check,outcome,term,coef,se,p,n
+"stacked events, no control",lrv_last,gain_post,0.5026958265937073,0.08676018010700196,3.547947821434897e-08,1366
+"stacked events, no control",lrv_last,lose_post,-0.3748600479630404,0.10217153086839621,0.00033129419566781847,1366
+"stacked events, + other large index expires",lrv_last,gain_post,0.5601783758705119,0.09936506383604903,7.617983736414357e-08,1366
+"stacked events, + other large index expires",lrv_last,lose_post,-0.4417391286472476,0.1085250085011537,7.35816388882655e-05,1366
+"stacked events, no control",lrv5,gain_post,0.14311064059346887,0.06923534238262012,0.04034343421100055,1366
+"stacked events, no control",lrv5,lose_post,-0.03827909595005952,0.09846671470834668,0.6979767204505959,1366
+"stacked events, + other large index expires",lrv5,gain_post,0.16004877765194916,0.07515135252367927,0.03472707829701718,1366
+"stacked events, + other large index expires",lrv5,lose_post,-0.05798606874834797,0.11429996086573448,0.6126324482725055,1366
+leave out nifty50,lrv_last,own_weekly,0.5675083758213351,0.04818365106569113,4.741912784541662e-26,2180
+leave out nifty50,lrv_last,own_monthly,0.5341115474690954,0.06457965695704986,6.441673003915528e-15,2180
+leave out banknifty,lrv_last,own_weekly,0.5136660093615101,0.05431358192370456,1.7414679750406938e-18,2176
+leave out banknifty,lrv_last,own_monthly,0.6345376995953522,0.08351169882318596,5.137892026189325e-13,2176
+leave out sensex,lrv_last,own_weekly,0.1845118980933237,0.04964982265577012,0.00024646377968084586,2500
+leave out sensex,lrv_last,own_monthly,0.3444949043358394,0.07836922465901296,1.5965750868456574e-05,2500
+settlement window from 5-minute returns,lrv5_last,own_weekly,0.1932739632719758,0.05770310307459169,0.0009269122679231233,3428
+settlement window from 5-minute returns,lrv5_last,own_monthly,0.4663285606453633,0.0972757716926747,2.7248513883736785e-06,3428
+settlement window from 5-minute returns,lrv5_last,other_major,0.1214509884316731,0.05836665497182457,0.03840646254874505,3428
+dose-response: own expiry x expiring-series contracts (std.),lrv_last,own,0.18323359937144973,0.04283213740469352,2.633341681113416e-05,2494
+dose-response: own expiry x expiring-series contracts (std.),lrv_last,own_x_volume,0.20910776764692574,0.04497056010287853,5.236509637378096e-06,2494
+mean share of session variance in 15:00-15:30,banknifty,own expiry days,0.1167811446875516,,,202
+mean share of session variance in 15:00-15:30,banknifty,other days,0.08594038937777877,,,1050
+mean share of session variance in 15:00-15:30,nifty50,own expiry days,0.10348637310869492,,,265
+mean share of session variance in 15:00-15:30,nifty50,other days,0.08463179851319569,,,983
+mean share of session variance in 15:00-15:30,sensex,own expiry days,0.21057684090615741,,,163
+mean share of session variance in 15:00-15:30,sensex,other days,0.08867638379281423,,,765

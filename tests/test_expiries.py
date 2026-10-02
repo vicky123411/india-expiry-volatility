@@ -42,11 +42,8 @@ def test_calendar_switches():
 @pytest.mark.parametrize("symbol", ["NIFTY", "BANKNIFTY"])
 def test_matches_nse_contract_files(symbol):
     """Every expiry day seen in NSE's F&O files (2014 - Jun 2026) is predicted, and vice versa
-    (except days missing from the files)."""
-    path = DATA / f"observed_expiries_{symbol}.csv"
-    if not path.exists():
-        pytest.skip("run scripts/run_all.py once to create the list of observed expiries")
-    obs = pd.DatetimeIndex(pd.to_datetime(pd.read_csv(path)["date"]))
+    (except days missing from the files). The lists in tests/data are written by scripts/run_all.py."""
+    obs = pd.DatetimeIndex(pd.to_datetime(pd.read_csv(DATA / f"observed_expiries_{symbol}.csv")["date"]))
     rule = ex.expiry_dates(symbol, TD, "2014-01-01", str(obs.max().date()))["date"]
     missing_from_files = {pd.Timestamp("2020-11-05"), pd.Timestamp("2020-11-12")}
     assert set(obs) == set(rule) - missing_from_files

@@ -1,0 +1,30 @@
+| Product | From | Weekly | Monthly | Note |
+|-----------|-----------|-------|---------|--------------------------------------------------|
+| NIFTY | before 2014 | - | last Thu | monthly contracts only |
+| NIFTY | 2019-02-11 | Thu | last Thu | weekly options launched 11 Feb 2019 (Thursday) |
+| NIFTY | 2025-09-01 | Tue | last Tue | NSE moves all expiries to Tuesday (last Thursday expiry 28 Aug 2025) |
+| BANKNIFTY | before 2014 | - | last Thu | monthly contracts only |
+| BANKNIFTY | 2016-05-27 | Thu | last Thu | weekly options launched 27 May 2016 (Thursday) |
+| BANKNIFTY | 2023-09-04 | Wed | last Thu | weekly moved to Wednesday (first 6 Sep 2023); monthly stays last Thursday |
+| BANKNIFTY | 2024-03-01 | Wed | last Wed | monthly moved to last Wednesday (first 27 Mar 2024) |
+| BANKNIFTY | 2024-11-20 | - | last Wed | weekly contracts discontinued (SEBI; last weekly 13 Nov 2024) |
+| BANKNIFTY | 2025-01-02 | - | last Thu | monthly moved to last Thursday (NSE circular, 29 Nov 2024) |
+| BANKNIFTY | 2025-09-01 | - | last Tue | monthly moved to last Tuesday |
+| SENSEX | 2023-05-15 | Fri | last Fri | relaunched 15 May 2023 with Friday expiry |
+| SENSEX | 2025-01-04 | Tue | last Tue | moved to Tuesday from 1 Jan 2025 (last Friday expiry 3 Jan, first Tuesday 7 Jan) |
+| SENSEX | 2025-09-01 | Thu | last Thu | moved to Thursday from 1 Sep 2025 |
+| FINNIFTY | 2021-01-11 | Thu | last Thu | launched 11 Jan 2021 (Thursday) |
+| FINNIFTY | 2021-10-15 | Tue | last Tue | moved to Tuesday (first 19 Oct 2021) |
+| FINNIFTY | 2024-11-20 | - | last Tue | weekly contracts discontinued (last weekly 19 Nov 2024) |
+| FINNIFTY | 2025-01-02 | - | last Thu | monthly moved to last Thursday |
+| FINNIFTY | 2025-09-01 | - | last Tue | monthly moved to last Tuesday |
+| MIDCPNIFTY | 2022-01-24 | Tue | last Tue | launched 24 Jan 2022 (Tuesday) |
+| MIDCPNIFTY | 2023-08-17 | Mon | last Mon | moved to Monday (first 21 Aug 2023) |
+| MIDCPNIFTY | 2024-11-19 | - | last Mon | weekly contracts discontinued (last weekly 18 Nov 2024) |
+| MIDCPNIFTY | 2025-01-02 | - | last Thu | monthly moved to last Thursday |
+| MIDCPNIFTY | 2025-09-01 | - | last Tue | monthly moved to last Tuesday |
+| BANKEX | 2023-05-15 | Fri | last Fri | relaunched 15 May 2023 with Friday expiry |
+| BANKEX | 2023-10-16 | Mon | last Mon | moved to Monday from 16 Oct 2023 |
+| BANKEX | 2024-11-19 | - | last Mon | weekly contracts discontinued (last weekly 18 Nov 2024) |
+| BANKEX | 2025-01-01 | - | last Tue | monthly moved to last Tuesday |
+| BANKEX | 2025-09-01 | - | last Thu | monthly moved to last Thursday |
