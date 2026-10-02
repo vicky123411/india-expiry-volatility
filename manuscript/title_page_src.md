@@ -28,7 +28,7 @@ title: "Expiry Moves the Close, Not the Day: Natural Experiments from India's Ch
 
 **Funding:** The author received no financial support for the research, authorship and/or publication of this article.
 
-**Data availability statement:** Price data are publicly available from Yahoo Finance. One-minute index data are publicly available from the Hugging Face dataset *thetrademarkk/india-index-options-1m* (CC BY-NC 4.0), and NSE end-of-day contract files from the Hugging Face dataset *rissin/nse-options-intraday*. The code that downloads the data and reproduces every table and figure, together with the reconstructed expiry calendar, is available at https://github.com/vicky123411/india-expiry-volatility.
+**Data availability statement:** Price data are publicly available from Yahoo Finance. One-minute index data are publicly available from the Hugging Face dataset *thetrademarkk/india-index-options-1m* (CC BY-NC 4.0), and NSE end-of-day contract files from the Hugging Face dataset *rissin/nse-options-intraday*. The code that downloads the data and reproduces every table and figure, together with the reconstructed expiry calendar, is available at https://github.com/vicky123411/india-options-expiry-effects.
 
 **Use of artificial intelligence tools:** [Author to review and adapt to the journal's policy before submission.] The author used an AI assistant (Claude, Anthropic) to write data-analysis code and to draft and edit the text of this article. The author reviewed and verified the analysis and the text and takes full responsibility for the content.
 

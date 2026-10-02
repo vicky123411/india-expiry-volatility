@@ -167,8 +167,8 @@ This guide explains the whole project in easy language, step by step, so you can
 
 ## 11. How to run it (copy–paste)
 ```bash
-git clone https://github.com/vicky123411/india-expiry-volatility.git
-cd india-expiry-volatility
+git clone https://github.com/vicky123411/india-options-expiry-effects.git
+cd india-options-expiry-effects
 pip install -r requirements.txt
 pytest -q                       # checks (few seconds)
 python scripts/run_all.py       # everything (~10 minutes, downloads data first time)

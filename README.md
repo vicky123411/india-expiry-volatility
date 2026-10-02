@@ -1,6 +1,6 @@
 # Expiry Moves the Close, Not the Day
 
-[![Tests](https://github.com/vicky123411/india-expiry-volatility/actions/workflows/tests.yml/badge.svg)](https://github.com/vicky123411/india-expiry-volatility/actions/workflows/tests.yml)
+[![Tests](https://github.com/vicky123411/india-options-expiry-effects/actions/workflows/tests.yml/badge.svg)](https://github.com/vicky123411/india-options-expiry-effects/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
 Research code for **"Expiry Moves the Close, Not the Day: Natural Experiments from India's Changing Options Expiry Calendar"** (paper in [`paper/main.pdf`](paper/main.pdf)).
@@ -89,8 +89,8 @@ If expiry causes volatility, the volatile day should **move when the expiry day 
 
 ## Run it yourself
 ```bash
-git clone https://github.com/vicky123411/india-expiry-volatility.git
-cd india-expiry-volatility
+git clone https://github.com/vicky123411/india-options-expiry-effects.git
+cd india-options-expiry-effects
 pip install -r requirements.txt
 
 pytest -q                          # automated checks (a few seconds)
